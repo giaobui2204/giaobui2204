@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 😄 Pronouns: she/her/hers
+- 🧝🏻‍♀️ Pronouns: she/her/hers
 - 🔭 I’m currently majoring in Computer Science at DePauw University
-- 🌱 I’m currently learning full-stack web development 
+- 🌱 I’m currently learning full-stack web development
 
 <!--
 **giaobui2204/giaobui2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
