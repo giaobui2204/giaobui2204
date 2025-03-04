@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧝🏻‍♀️ Pronouns: she/her/hers<br>🔭 I’m currently majoring in Computer Science; minoring in Design Studies at DePauw University<br>🌱 I’m currently interested in web, UI/UX, and cybersecurity, but willing to work new things too!
+🧝🏻‍♀️ Pronouns: she/her/hers<br>🔭 I’m currently majoring in Computer Science; minoring in Design Studies at DePauw University<br>🌱 I’m currently interested in Full Stack web and UI/UX, but always ready to work new things too!
 <br>🖥️ Prev @Spiraledge
 
 
